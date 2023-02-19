@@ -2,7 +2,7 @@
 
 ### This respiretory contains data analysis methodology using Python for social scientist from beginning to advanced level.
 
-### It includes Python codes as well as statistical explanation/interpretations. 
+### It includes Python codes as well as statistical explanations/interpretations. 
   
 You can find :
 1) Basic codes
@@ -19,3 +19,6 @@ Also, it provides some practical samples using open dataset
 **Any contributions are welcome !**
 
 *Jiwon*
+
+
+*@social science @social scientist @quantitative sociology @statistics @sociology @psychology @economics @political science @computer science @demography @health data @public health @epidemiology*
