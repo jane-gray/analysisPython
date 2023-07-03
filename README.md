@@ -12,6 +12,7 @@ You can find :
 5) Parametric test - Normality test, Sapiro-wilk test, Levene's test, etc. 
 6) Diagnostic test - goodness-of-fit, Cook's distance, etc.
 7) Statistical hypothesis testing - Z-test, Chi-squared test, F-test, etc.
+8) Webscribing, text analysis
 
 Also, it provides some practical samples using open dataset 
 (The prevalence of alcohol-related sexually transmitted diseases and sociodemographic characteristics of risk groups)
