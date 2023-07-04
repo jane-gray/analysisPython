@@ -21,5 +21,10 @@ Also, it provides some practical samples using open dataset
 
 *Jiwon*
 
+*** Development Environment
+-Mac OS 12.6.6
+-Python 3.11.4
+-Anaconda 22.11.0 
+-Jupyterlab
 
 *@social science @social scientist @quantitative sociology @statistics @sociology @psychology @economics @political science @computer science @demography @health data @public health @epidemiology*
