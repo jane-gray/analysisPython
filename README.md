@@ -7,7 +7,7 @@
 You can find :
 1) Basic codes
 2) Descriptive analysis - cross-tabulation analysis, histogram, scatter plot,correlation coefficients, etc.
-3) Inferential analysis - linear regression, logistic regression, etc. 
+3) Inferential analysis - linear regression, logistic regression, etc. (for Machine Learning)
 4) Comparative analysis - ANOVA, MANOVA, T-test, etc.
 5) Parametric test - Normality test, Sapiro-wilk test, Levene's test, etc. 
 6) Diagnostic test - goodness-of-fit, Cook's distance, etc.
