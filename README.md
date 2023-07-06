@@ -1,4 +1,4 @@
-# Data Analysis Using Python for Social Scientist
+# Data Analysis Using Python for Social Sciences
 
 ### This repository contains data analysis methodology using Python for social scientists from beginning to advanced level.
 
