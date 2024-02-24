@@ -1,6 +1,6 @@
-# Data Analysis Using Python for Social Sciences
+# Data Analysis Using Python for Social Sciences in the Health Sector
 
-### This repository contains data analysis methodology using Python for social scientists from beginning to advanced level.
+### This repository contains data analysis methodology using Python for social scientists, especially in the health sectors, from beginning to advanced level.
 
 ### It includes Python codes as well as statistical explanations/interpretations. 
   
